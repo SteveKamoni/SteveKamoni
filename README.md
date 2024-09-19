@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Steve KAMoni,
-"Enthusiastic Web Developer, Crafting Digital Delights with 9+ Months of Experience and a Whole Lot of Love for the Web!"
+"Enthusiastic Web Developer, Crafting Digital Delights with 1+ Year of Experience and a Whole Lot of Love for the Web!"
 
 
 # 💻 Tech Stack:
