@@ -70,5 +70,7 @@ I'm Steve, a full-stack developer based in Kenya 🇰🇪<br><br>
 ###
 
 <div align="center">
-  ![stevekamoni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekamoni&theme=merko&show_icons=true&hide_border=false&layout=compact)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevekamoni&theme=dark&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevekamoni&theme=merko&show_icons=true&hide_border=false&layout=compact" height="200"/>
 </div>
+
