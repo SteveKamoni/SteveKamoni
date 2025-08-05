@@ -36,7 +36,7 @@
 I'm Steve, a full-stack developer based in Kenya 🇰🇪<br><br>
 - 🔭 I’m currently working on full-stack projects using React, Node.js, and MongoDB<br>
 - 📚 I'm focused on mastering system design, backend performance, and advanced state management<br>
-- ⚡ In my free time I cook for efficiency, level up my technical communication, and explore financial literacy
+- ⚡ Outside of coding, I'm improving in persuasive communication, meal prep, and financial literacy
 </p>
 
 ###
