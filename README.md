@@ -70,5 +70,5 @@ I'm Steve, a full-stack developer based in Kenya 🇰🇪<br><br>
 ###
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=steve-dev&theme=dark&hide_border=false" height="220" alt="Steve's GitHub streak stats" />
+  ![stevekamoni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevekamoni&theme=merko&show_icons=true&hide_border=false&layout=compact)
 </div>
