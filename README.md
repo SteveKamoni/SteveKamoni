@@ -69,8 +69,12 @@ I'm Steve, a full-stack developer based in Kenya 🇰🇪<br><br>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevekamoni&theme=dark&hide_border=false" height="200"/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-Learning-orange?style=flat"/>
+</p>
+
+
 
