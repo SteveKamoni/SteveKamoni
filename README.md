@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="720" src="https://i.pinimg.com/originals/e4/e1/16/e4e11649ebd8e4acc7a0700d99cb90c9.gif"  />
+  <img height="1080" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif"  />
 </div>
 
 ###
@@ -44,12 +44,12 @@ const developer = {
   }
 };
 
-// Re-learning isn't going backwards—it's compounding forward.
+let myPhilosophy = `Re-learning isn't going backwards—it's compounding forward`;
 ```
 
 ###
 
-<h3 align="left">⚡ approach</h3>
+<h3 align="left">⚡ Approach</h3>
 
 I learn JavaScript to understand *why* things work, not just how to make them run.
 
@@ -63,7 +63,7 @@ Building real projects for clients. Learning from documentation, errors, and ite
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
@@ -75,7 +75,7 @@ Building real projects for clients. Learning from documentation, errors, and ite
 
 ###
 
-<h3 align="left">🌱 studying (deliberately)</h3>
+<h3 align="left">🌱 Currently Studying (deliberately)</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
@@ -87,18 +87,18 @@ Building real projects for clients. Learning from documentation, errors, and ite
 
 ###
 
-<h3 align="left">💼 open to</h3>
+<h3 align="left">💼 Open to</h3>
 
 Web development projects where quality matters more than speed.  
-Collaborations with people who value craft over shortcuts.  
+Collaborations with people who value intentional work.
 Freelance work that pushes me to write better code.
 
-If you're building something real and want someone who thinks before they type, let's talk.
+If you're building something real and want someone who matches your energy, let's talk.
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stevekamoni&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="150" alt="stats" />
 </div>
 
 ###
