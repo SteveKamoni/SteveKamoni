@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/e4/e1/16/e4e11649ebd8e4acc7a0700d99cb90c9.gif"  />
 </div>
 
 ###
@@ -51,12 +51,11 @@ const developer = {
 
 <h3 align="left">⚡ approach</h3>
 
-Most people learn JavaScript to build things quickly.  
-I'm learning JavaScript to understand *why* things work.
+I learn JavaScript to understand *why* things work, not just how to make them run.
 
-Right now: going back through fundamentals I rushed past the first time—closures, `this` binding, prototypes, async patterns. The unsexy stuff that separates developers who can code from developers who can *reason* about code.
+Right now: revisiting fundamentals—closures, `this` binding, prototypes, async patterns. The foundations that let you reason about code instead of guessing at it.
 
-Building real projects for clients while I learn. No tutorials. No hand-holding. Just docs, errors, and iteration.
+Building real projects for clients. Learning from documentation, errors, and iteration. One concept at a time, each one understood completely before moving forward.
 
 ###
 
