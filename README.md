@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SteveKamoni">
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/your-twitter-handle">
@@ -15,34 +15,52 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&"  />
-</div>
+<h1 align="center">steve.</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+```javascript
+const developer = {
+  location: "Nakuru, KE",
+  current: "deconstructing fundamentals",
+  belief: "technical debt compounds faster than you think",
+  
+  focus: [
+    "execution contexts & scope chains",
+    "prototypal inheritance patterns", 
+    "event loop mechanics",
+    "functional composition"
+  ],
+  
+  building: {
+    client_work: ["production sites", "web applications"],
+    learning: "one layer at a time—deeply"
+  },
+  
+  stack_status: {
+    comfortable: ["JS", "React", "responsive design"],
+    studying: ["Node.js", "MongoDB", "Express"],
+    philosophy: "master the foundation before the framework"
+  }
+};
+
+// Re-learning isn't going backwards—it's compounding forward.
+```
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h3 align="left">⚡ approach</h3>
+
+Most people learn JavaScript to build things quickly.  
+I'm learning JavaScript to understand *why* things work.
+
+Right now: going back through fundamentals I rushed past the first time—closures, `this` binding, prototypes, async patterns. The unsexy stuff that separates developers who can code from developers who can *reason* about code.
+
+Building real projects for clients while I learn. No tutorials. No hand-holding. Just docs, errors, and iteration.
 
 ###
 
-<p align="left">
-I'm Steve, a web developer based in Nakuru, Kenya 🇰🇪<br><br>
-- 🎯 Building web applications and client websites with JavaScript and React<br>
-- 📚 Currently deepening my JavaScript fundamentals—going back to master the basics properly<br>
-- 🚀 Learning the MERN stack methodically, one technology at a time<br>
-- 💼 Open to freelance web development projects and collaborations<br>
-- ⚡ Beyond code: exploring persuasive communication, meal prep, and financial literacy
-</p>
-
-###
-
-<h3 align="left">🛠 Working With</h3>
-
-###
+<h3 align="left">🛠 working with</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
@@ -58,9 +76,7 @@ I'm Steve, a web developer based in Nakuru, Kenya 🇰🇪<br><br>
 
 ###
 
-<h3 align="left">🌱 Currently Learning</h3>
-
-###
+<h3 align="left">🌱 studying (deliberately)</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
@@ -72,17 +88,22 @@ I'm Steve, a web developer based in Nakuru, Kenya 🇰🇪<br><br>
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">💼 open to</h3>
+
+Web development projects where quality matters more than speed.  
+Collaborations with people who value craft over shortcuts.  
+Freelance work that pushes me to write better code.
+
+If you're building something real and want someone who thinks before they type, let's talk.
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="150" alt="stats" />
 </div>
 
 ###
 
 <div align="center">
-  <i>"Building deliberately. Learning deeply. Growing consistently."</i>
+  <sub>avoiding technical debt, one function at a time</sub>
 </div>
