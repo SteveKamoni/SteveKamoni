@@ -5,17 +5,21 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/steve-kamoni">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="mailto:stevekamoni4@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
 <h1 align="center">K.A.M.O.N.I</h1>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="120" alt="JavaScript logo" style="border-radius:200px;" />
+</div>
+
 
 ###
 
@@ -63,7 +67,7 @@ Building real projects for clients. Learning from documentation, errors, and ite
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="15" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
@@ -97,12 +101,10 @@ If you're building something real and want someone who matches your energy, let'
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SteveKamoni&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="150" alt="stats" />
-</div>
-
 ###
 
 <div align="center">
-  <sub>avoiding technical debt, one function at a time</sub>
+  <i>
+  <sub>"Avoiding technical debt, one function at a time"</sub>
+  </i>
 </div>
