@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">steve.</h1>
+<h1 align="center">K.A.M.O.N.I</h1>
 
 ###
 
@@ -98,7 +98,7 @@ If you're building something real and want someone who matches your energy, let'
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevekamoni&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SteveKamoni&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="150" alt="stats" />
 </div>
 
 ###
